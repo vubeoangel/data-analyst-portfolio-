@@ -41,4 +41,4 @@ This project visualizes responses from a global data science survey. The dashboa
 ### 👤 Author
 
 Sebastian — aspiring data analyst.  
-Reach me on [LinkedIn](www.linkedin.com/in/sebastian-nguyen-743444238).
+Reach me on [LinkedIn](https://www.linkedin.com/in/sebastian-nguyen-743444238).
